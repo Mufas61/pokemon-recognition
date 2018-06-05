@@ -1,3 +1,5 @@
 .idea/ 
 venv
 *.pyc
+.ipynb_checkpoints/
+networks/__pycache__/
