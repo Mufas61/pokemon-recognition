@@ -1,0 +1,5 @@
+DATASET_DIR = "dataset"
+MODEL_FILE = "pokedex.model"
+LABEL_BIN = "lb.pickle"
+PLOT_FILE = "plot.png"
+IMAGE_FILE = "examples/charmander_counter.png"

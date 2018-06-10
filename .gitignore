@@ -3,3 +3,7 @@ venv
 *.pyc
 .ipynb_checkpoints/
 networks/__pycache__/
+__pycache__/
+lb.pickle
+plot.png
+pokedex.model
